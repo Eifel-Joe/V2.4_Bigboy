@@ -62,3 +62,9 @@ pin = gpio27
 off_when_shutdown = false
 initial_state = off
 
+[update_manager crowsnest]
+type = git_repo
+path = ~/crowsnest
+origin = https://github.com/mainsail-crew/crowsnest.git
+managed_services = crowsnest
+
