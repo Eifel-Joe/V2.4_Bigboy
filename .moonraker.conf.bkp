@@ -59,7 +59,7 @@ initial_state = true
 [power Licht]
 type = gpio
 pin = gpio27
-off_when_shutdown = false
+off_when_shutdown = true
 initial_state = off
 
 [update_manager crowsnest]
