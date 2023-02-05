@@ -149,7 +149,7 @@ text:
 [display_data __voron_display chamber]
 position: 2, 0
 text:
-  {% set chamber = printer['temperature_fan enclosure_fan'] %}
+  {% set chamber = printer['temperature_fan exhaust_fan'] %}
 	~chamber~
 	{ "%3.0f" % (chamber.temperature,) }
 	~degrees~
@@ -160,7 +160,7 @@ text:
   {% if printer.display_status.message %}
     { printer.display_status.message }
   {% elif printer.idle_timeout.printing_time %}
-    {% set raspberry = printer['temperature_sensor Raspberry'] %}
+    {% set raspberry = printer['temperature_sensor RPI'] %}
     ~raspberry~
      { "%3.0f" % (raspberry.temperature,) }
     ~degrees~
