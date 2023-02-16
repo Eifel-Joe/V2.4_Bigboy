@@ -1,0 +1,7 @@
+[include ercf_hardware.cfg]
+[include ercf_software.cfg]
+[include ercf_tip_form.cfg]
+[include ercf_neopixel.cfg]
+[include pico.cfg]
+[include manual.cfg]
+[include ercf_override.cfg]

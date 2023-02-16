@@ -17,10 +17,8 @@ ercf_current_tool = 0
 ercf_most_swaps = 314
 ercf_swaps = 0
 ercf_total_swaps = 6
-light = 0
-preheat = 0
 service = 1
 sheet = 0
 time = 0
-user_offset = -0.07
+user_offset = 0.17
 
