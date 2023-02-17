@@ -3,6 +3,6 @@ light = 0
 preheat = 1
 service = 1
 sheet = 0
-time = 144
+time = 220
 user_offset = -0.07
 
