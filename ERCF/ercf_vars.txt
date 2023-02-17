@@ -14,11 +14,7 @@ ercf_calib_9 = 1.0
 ercf_calib_ref = 1074.155108
 ercf_current_pos = 3.3
 ercf_current_tool = 0
-ercf_most_swaps = 314
+ercf_most_swaps = 0
 ercf_swaps = 0
-ercf_total_swaps = 6
-service = 1
-sheet = 0
-time = 0
-user_offset = 0.17
+ercf_total_swaps = 0
 
