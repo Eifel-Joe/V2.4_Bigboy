@@ -1,6 +1,6 @@
 [Variables]
 light = 0
-preheat = 0
+preheat = 1
 service = 1
 sheet = 0
 time = 0
