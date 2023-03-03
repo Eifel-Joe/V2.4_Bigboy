@@ -1,4 +1,22 @@
 [Variables]
+ercf_calib_0 = 1.0
+ercf_calib_1 = 0.992994239203
+ercf_calib_10 = 1.0
+ercf_calib_11 = 1.0
+ercf_calib_2 = 0.997125976675
+ercf_calib_3 = 0.996434967682
+ercf_calib_4 = 1.00059544771
+ercf_calib_5 = 0.998510873865
+ercf_calib_6 = 1.0
+ercf_calib_7 = 1.0
+ercf_calib_8 = 1.0
+ercf_calib_9 = 1.0
+ercf_calib_ref = 1074.155108
+ercf_current_pos = 3.3
+ercf_current_tool = 0
+ercf_most_swaps = 0
+ercf_swaps = 0
+ercf_total_swaps = 0
 light = 0
 preheat = 0
 service = 1
